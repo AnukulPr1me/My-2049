@@ -10,8 +10,7 @@
    - **Keyboard**: Use the arrow keys or WASD keys to move the player character.
    - **Left Mouse Button**: Interact with puzzle elements or select menu options.
    - **Escape**: Pause the game or navigate back to the previous menu.
-3. **Gameplay**: Each level presents a different puzzle that you must solve. The puzzles may involve manipulating objects, activating switches, or finding hidden paths. Use your problem-solving skills to overcome obstacles and reach the goal.
-4. **Hint System**: If you get stuck on a puzzle, you can use the hint system to get a clue on how to proceed. However, use hints wisely, as they are limited.
+3. **Gameplay**: Press R to reload the Game.
 
 ## Features
 - **Challenging Puzzles**: Test your logical thinking and problem-solving abilities with increasingly complex puzzles.
